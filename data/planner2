@@ -1,0 +1,13 @@
+{
+  "name": "Becca's Planner",
+  "tasks": [
+    {
+      "name": "CPSC210",
+      "time": 1930
+    },
+    {
+      "name": "BIOL140",
+      "time": 1400
+    }
+  ]
+}

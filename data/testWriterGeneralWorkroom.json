@@ -1,0 +1,15 @@
+{
+    "name": "My Planner",
+    "tasks": [
+        {
+            "name": "CompSci210",
+            "time": 1930,
+            "day": "WEDNESDAY"
+        },
+        {
+            "name": "BIOL140",
+            "time": 1400,
+            "day": "MONDAY"
+        }
+    ]
+}
